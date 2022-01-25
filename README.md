@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋,I am https://www.linkedin.com/in/mahdi-ihsan-5b9b9218a/
 
-<!--
-**mahdi16110/mahdi16110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IoT Developer At Akij Group
+ 
+- 🔭 I’m currently working on IIoT.
+- 🌱 I’m currently learning  ASP .Net Core & Python based Automation.
+- 👯 I’m looking to collaborate on Web application development using Django .
+- 🤔 I’m looking for help with  Industrial Networking.
+- 💬 Ask me about  Python & IIoT.
+🕵 I love working with  team where I can collaborate to solve complex problems
+💬 Please feel free to contact me if you need any further information: mahdiihsan16110@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
