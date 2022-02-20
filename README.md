@@ -21,6 +21,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mahdi-ihsan-5b9b9218a/"><img alt="LinkedIn" src="https://img.shields.io/badge/mahdiihsan-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.researchgate.net/profile/Mahdi-Ihsan"><img alt="ResearchGate" src="https://img.shields.io/badge/mahdiihsan-ResearchGate-brightgreen?style=flat-square&logo=ResearchGate"></a>
 <a href="mailto:mahdiihsan16110@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahdiihsan16110@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.instagram.com/AT_Takwir_110/"><img alt="Instagram" src="https://img.shields.io/badge/mahdi_ihsan-cyan?style=flat&logo=instagram"></a>
 </p>
