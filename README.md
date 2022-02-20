@@ -30,9 +30,8 @@
 
 <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/><a/>
 <a src="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><a/>
-<a src="https://www.java.com/en/"><img src="https://img.icons8.com/java"/><a/a>
+<a src="https://www.java.com/en/"><img src="https://img.icons8.com/java"/><a/>
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-
 <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
