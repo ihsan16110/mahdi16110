@@ -43,3 +43,35 @@
 <a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><a/>
 <a><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/><a/>
 <a><img src="https://img.icons8.com/color/48/000000/jira.png"/><a/>
+
+   
+<br />
+<div class="row">
+
+<img  src="https://github-readme-stats.vercel.app/api?username=mahdi16110&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohiandipta&theme=tokyonight&hide_border=true" width="49%" >
+<br />
+  
+[![mahdi16110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io/)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahdi16110&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+<div class="row">
+
+
+
+</div>
+
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
+
+
+
+
+  
