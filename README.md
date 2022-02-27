@@ -53,9 +53,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohiandipta&theme=tokyonight&hide_border=true" width="49%" >
 <br />
   
-[![Mahdiihsan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io/)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahdi16110&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
