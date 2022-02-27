@@ -38,3 +38,8 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.microsoft.com/en-us/sql-server/sql-server-2019"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 
+### Tools 🛠️
+<a><img src="https://img.icons8.com/color/48/000000/git.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/><a/>
+<a><img src="https://img.icons8.com/color/48/000000/firebase.png"/><a/>
