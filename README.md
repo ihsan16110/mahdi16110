@@ -48,13 +48,13 @@
 <br />
 <div class="row">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=mahdi16110&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<! --<img  src="https://github-readme-stats.vercel.app/api?username=mahdi16110&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" > -->
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi16110&theme=tokyonight&hide_border=true" width="49%" >
  
 <br />
   
-//[![MahdiIhsan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
+[![MahdiIhsan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io/)
 
