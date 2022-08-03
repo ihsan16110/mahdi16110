@@ -54,7 +54,7 @@
  
 <br />
   
-[![MahdiIhsan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
+//[![MahdiIhsan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi16110&theme=tokyonight&hide_border=true)](https://mahdi16110.github.io/)
 
